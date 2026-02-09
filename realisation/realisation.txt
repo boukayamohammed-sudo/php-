@@ -1,0 +1,38 @@
+ Calculateur PHP – Projet Sghir
+
+.Chnou kaydir
+Hadi application PHP sghira li katkhallik tdkhl juj dyal l’3dad w tchouf resultat dyal operation:
+- (+)
+- (-)
+- (*)
+- (/)
+
+. L’objectifs
+- T3llm l’HTML formulaire
+- T3llm POST f’PHP
+- T3llm validation dyal les données
+- T3llm if / else w switch
+- T3llm fonction f’PHP
+
+. Technologies
+- PHP
+- HTML
+
+. Kifach kaykhdem
+1. Katdkhl juj dyal l’3dad
+2. Katkhiyar l’operation
+3. Katb3t formulaire b POST
+4. PHP kayverify les données
+5. Kaydir calcul f’function
+6. Kayban resultat ola message d’erreur
+
+. Contraintes
+- Ma kaynach POO
+- Ma kaynach base de données
+- Kolchi local (XAMPP / WAMP)
+- Fichiers PHP bark
+
+. Structure dyal projet
+- index.php : formulaire HTML
+- calcul.php : traitement w calcul
+- README.md : hada li katqra daba
