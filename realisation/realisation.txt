@@ -1,7 +1,7 @@
  Calculateur PHP – Projet Sghir
 
 .Chnou kaydir
-Hadi application PHP sghira li katkhallik tdkhl juj dyal l’3dad w tchouf resultat dyal operation:
+Hadi application PHP sghira li katkhallik tdkhl juj dyal la3dad w tchouf resultat dyal operation:
 - (+)
 - (-)
 - (*)
